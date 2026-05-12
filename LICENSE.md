@@ -1,4 +1,4 @@
-# 
+# advanced ftx trading bot Executor | price-monitoring + take-profit offers the most advanced ftx trading bot, with price-monitoring and take-profit. Ideal for professional traders
 
 
 
